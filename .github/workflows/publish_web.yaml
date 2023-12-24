@@ -1,4 +1,4 @@
-name: Flutter Web
+name: Publish Web
 
 on:
   workflow_dispatch:
