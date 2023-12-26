@@ -73,7 +73,7 @@ class _MyHomePageState extends State<MyHomePage> {
               padding: const EdgeInsets.all(16),
               width: 860,
               child: Text(
-                'Domínio registrado e com ideia formada mas estacionada por enquanto. Caso tenha interesse entre em contato no email abaixo.',
+                'Domínio registrado e com ideia formada mas estacionada por enquanto. Caso tenha interesse entre em contato através do email abaixo.',
                 textAlign: TextAlign.center,
                 style: Theme.of(context).textTheme.bodyLarge,
               ),
